@@ -1,0 +1,7 @@
+{
+  "siteUrl": "",
+  "username": "",
+  "password": "",
+  "authToken": "",
+  "tablesToCheck": ["AccountMobile", "AppMobileCertificates", "Provisioning"]
+}
