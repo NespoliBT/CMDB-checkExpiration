@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "moduleResolution": "node",
+        "target": "es2017"
+    },
+    "exclude": [
+        "dist",
+        "node_modules"
+    ]
+}
